@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="tests" name="Suite">
+	<test name="Android">
+		<listeners>
+		<listener class-name="com.qa.listeners.TestListener"/>
+		</listeners>
+		<parameter name="emulator" value="false" />
+		<parameter name="platformName" value="Android"/>
+		<parameter name="udid" value="ZF6224FRBT"/>
+		<parameter name="deviceName" value="motorola one"/>	
+		<parameter name="systemPort" value="10005"/>
+		<parameter name="chromeDriverPort" value="11005"/>	
+		<classes>
+			<class name="com.qa.tests.LoginTests"></class>
+		</classes>
+	</test><!-- Test -->
+</suite><!-- Suite -->

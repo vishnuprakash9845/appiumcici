@@ -1,0 +1,21 @@
+25:Android:motorola one:com.qa.tests.LoginTests:LoginTest Beefore method
+25:Android:motorola one:com.qa.tests.LoginTests:
+******* starting test:invalidPassword********
+
+25:Android:motorola one:com.qa.tests.LoginTests:Actual Error Text - Username and password do not match any user in this service.
+Expected error Text - Username and password do not match any user in this service.
+25:Android:motorola one:com.qa.tests.LoginTests:LoginTest After method
+25:Android:motorola one:com.qa.tests.LoginTests:LoginTest Beefore method
+25:Android:motorola one:com.qa.tests.LoginTests:
+******* starting test:invalidUserName********
+
+25:Android:motorola one:com.qa.tests.LoginTests:Actual Error Text - Username and password do not match any user in this service.
+Expected error Text - Username and password do not match any user in this service.
+25:Android:motorola one:com.qa.tests.LoginTests:LoginTest After method
+25:Android:motorola one:com.qa.tests.LoginTests:LoginTest Beefore method
+25:Android:motorola one:com.qa.tests.LoginTests:
+******* starting test:successfulLogin********
+
+25:Android:motorola one:com.qa.tests.LoginTests:Actual Product Title - PRODUCTS
+Expected title - PRODUCTS
+25:Android:motorola one:com.qa.tests.LoginTests:LoginTest After method

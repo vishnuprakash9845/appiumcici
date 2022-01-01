@@ -1,0 +1,18 @@
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:22:59.817 BaseTest:111 - Super Beefore method
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:23:02.877 LoginPage:32 - Login with : standard_user
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:23:10.552 LoginPage:39 - Password is : invalidpassword
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:23:18.897 LoginPage:46 - Press Login Button. 
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:23:27.902 LoginPage:58 - Error text is : Username and password do not match any user in this service.
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:23:34.604 BaseTest:117 - Super After method
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:23:36.985 BaseTest:111 - Super Beefore method
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:23:46.220 LoginPage:32 - Login with : invalidusername
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:24:00.835 LoginPage:39 - Password is : secret_sauce
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:24:07.435 LoginPage:46 - Press Login Button. 
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:24:15.572 LoginPage:58 - Error text is : Username and password do not match any user in this service.
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:24:21.694 BaseTest:117 - Super After method
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:24:25.345 BaseTest:111 - Super Beefore method
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:24:35.470 LoginPage:32 - Login with : standard_user
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:24:48.101 LoginPage:39 - Password is : secret_sauce
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:24:54.532 LoginPage:46 - Press Login Button. 
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:25:03.773 ProductsPage:28 - Products Title is : PRODUCTS
+[logs/iOS_iPhone 13 INFO ] 2021-12-30 19:25:10.940 BaseTest:117 - Super After method

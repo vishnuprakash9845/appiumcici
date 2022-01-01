@@ -1,0 +1,22 @@
+26:iOS:iPhone 13:com.qa.tests.LoginTests:LoginTest Beefore method
+26:iOS:iPhone 13:com.qa.tests.LoginTests:
+******* starting test:invalidPassword********
+
+26:iOS:iPhone 13:com.qa.tests.LoginTests:Actual Error Text - Username and password do not match any user in this service.
+Expected error Text - Username and password do not match any user in this service.
+26:iOS:iPhone 13:com.qa.tests.LoginTests:LoginTest After method
+26:iOS:iPhone 13:com.qa.tests.LoginTests:LoginTest Beefore method
+26:iOS:iPhone 13:com.qa.tests.LoginTests:
+******* starting test:invalidUserName********
+
+26:iOS:iPhone 13:com.qa.tests.LoginTests:Actual Error Text - Username and password do not match any user in this service.__test
+Expected error Text - Username and password do not match any user in this service.
+26:iOS:iPhone 13:com.qa.tests.LoginTests:LoginTest After method
+26:iOS:iPhone 13:com.qa.BaseTest:video path: videos/iOS_iPhone 13/2021-12-31-14-43-55/LoginTests/invalidUserName.mp4
+26:iOS:iPhone 13:com.qa.tests.LoginTests:LoginTest Beefore method
+26:iOS:iPhone 13:com.qa.tests.LoginTests:
+******* starting test:successfulLogin********
+
+26:iOS:iPhone 13:com.qa.tests.LoginTests:Actual Product Title - PRODUCTS
+Expected title - PRODUCTS
+26:iOS:iPhone 13:com.qa.tests.LoginTests:LoginTest After method

@@ -1,0 +1,46 @@
+[logs/Android_motorola one INFO ] 2021-12-30 19:22:48.438 BaseTest:175 - log path: logs/Android_motorola one
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:05.473 BaseTest:111 - Super Beefore method
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:08.001 LoginPage:32 - Login with : standard_user
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:09.563 LoginPage:39 - Password is : invalidpassword
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:10.998 LoginPage:46 - Press Login Button. 
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:13.934 LoginPage:58 - Error text is : Username and password do not match any user in this service.
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:14.769 BaseTest:117 - Super After method
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:15.413 BaseTest:111 - Super Beefore method
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:16.649 LoginPage:32 - Login with : invalidusername
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:18.192 LoginPage:39 - Password is : secret_sauce
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:20.721 LoginPage:46 - Press Login Button. 
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:23.073 LoginPage:58 - Error text is : Username and password do not match any user in this service.
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:23.886 BaseTest:117 - Super After method
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:25.067 BaseTest:111 - Super Beefore method
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:26.007 LoginPage:32 - Login with : standard_user
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:27.471 LoginPage:39 - Password is : secret_sauce
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:28.873 LoginPage:46 - Press Login Button. 
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:31.517 ProductsPage:28 - Products Title is : PRODUCTS
+[logs/Android_motorola one INFO ] 2021-12-30 19:23:31.910 BaseTest:117 - Super After method
+[logs/Android_motorola one INFO ] 2021-12-30 19:56:14.106 BaseTest:238 - log path: logs/Android_motorola one
+[logs/Android_motorola one ERROR] 2021-12-30 19:56:14.912 BaseTest:296 - Something went wrong while initializing Appium Driver
+[logs/Android_motorola one INFO ] 2021-12-30 20:00:04.550 BaseTest:238 - log path: logs/Android_motorola one
+[logs/Android_motorola one ERROR] 2021-12-30 20:00:05.366 BaseTest:296 - Something went wrong while initializing Appium Driver
+[logs/Android_motorola one INFO ] 2021-12-30 20:01:33.839 BaseTest:238 - log path: logs/Android_motorola one
+[logs/Android_motorola one ERROR] 2021-12-30 20:01:34.641 BaseTest:296 - Something went wrong while initializing Appium Driver
+[logs/Android_motorola one INFO ] 2021-12-30 20:04:20.382 BaseTest:238 - log path: logs/Android_motorola one
+[logs/Android_motorola one ERROR] 2021-12-30 20:04:21.033 BaseTest:296 - Something went wrong while initializing Appium Driver
+[logs/Android_motorola one INFO ] 2021-12-30 20:08:56.379 BaseTest:238 - log path: logs/Android_motorola one
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:36.452 BaseTest:119 - Super Beefore method
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:38.975 LoginPage:32 - Login with : standard_user
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:40.529 LoginPage:39 - Password is : invalidpassword
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:42.436 LoginPage:46 - Press Login Button. 
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:45.840 LoginPage:58 - Error text is : Username and password do not match any user in this service.
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:46.175 BaseTest:125 - Super After method
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:47.350 BaseTest:119 - Super Beefore method
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:48.151 LoginPage:32 - Login with : invalidusername
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:50.168 LoginPage:39 - Password is : secret_sauce
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:52.039 LoginPage:46 - Press Login Button. 
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:54.386 LoginPage:58 - Error text is : Username and password do not match any user in this service.
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:54.690 BaseTest:125 - Super After method
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:55.771 BaseTest:119 - Super Beefore method
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:56.564 LoginPage:32 - Login with : standard_user
+[logs/Android_motorola one INFO ] 2021-12-30 20:09:58.547 LoginPage:39 - Password is : secret_sauce
+[logs/Android_motorola one INFO ] 2021-12-30 20:10:00.746 LoginPage:46 - Press Login Button. 
+[logs/Android_motorola one INFO ] 2021-12-30 20:10:03.292 ProductsPage:28 - Products Title is : PRODUCTS
+[logs/Android_motorola one INFO ] 2021-12-30 20:10:03.675 BaseTest:125 - Super After method

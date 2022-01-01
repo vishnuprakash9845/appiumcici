@@ -1,0 +1,148 @@
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:41:46.780 BaseTest:241 - log path: logs/iOS_iPhone 13
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:42:04.758 BaseTest:122 - Super Beefore method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:42:08.236 TestListener:34 - java.lang.NullPointerException: Cannot invoke "com.qa.utils.TestUtils.log()" because "this.utils" is null
+	at com.qa.BaseTest.clear(BaseTest.java:323)
+	at com.qa.pages.LoginPage.enterUserName(LoginPage.java:31)
+	at com.qa.tests.LoginTests.invalidPassword(LoginTests.java:92)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:42:09.762 BaseTest:128 - Super After method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:42:10.660 BaseTest:122 - Super Beefore method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:42:11.889 TestListener:34 - java.lang.NullPointerException: Cannot invoke "com.qa.utils.TestUtils.log()" because "this.utils" is null
+	at com.qa.BaseTest.clear(BaseTest.java:323)
+	at com.qa.pages.LoginPage.enterUserName(LoginPage.java:31)
+	at com.qa.tests.LoginTests.invalidUserName(LoginTests.java:78)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:42:12.501 BaseTest:128 - Super After method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:42:12.910 BaseTest:122 - Super Beefore method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:42:14.337 TestListener:34 - java.lang.NullPointerException: Cannot invoke "com.qa.utils.TestUtils.log()" because "this.utils" is null
+	at com.qa.BaseTest.clear(BaseTest.java:323)
+	at com.qa.pages.LoginPage.enterUserName(LoginPage.java:31)
+	at com.qa.tests.LoginTests.successfulLogin(LoginTests.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:42:14.977 BaseTest:128 - Super After method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:43:55.834 BaseTest:241 - log path: logs/iOS_iPhone 13
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:11.622 BaseTest:122 - Super Beefore method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:15.140 BaseTest:323 - Clearing UserName
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:16.625 BaseTest:347 - UserName is : standard_user
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:23.355 BaseTest:323 - Clearing Password
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:24.918 BaseTest:347 - Password is : invalidpassword
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:30.892 BaseTest:335 - Press Login Button.
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:40.925 BaseTest:367 - Error text is Username and password do not match any user in this service.
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:40.930 BaseTest:128 - Super After method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:44.304 BaseTest:122 - Super Beefore method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:45.811 BaseTest:323 - Clearing UserName
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:54.601 BaseTest:347 - UserName is : invalidusername
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:44:59.430 BaseTest:323 - Clearing Password
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:09.658 BaseTest:347 - Password is : secret_sauce
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:13.819 BaseTest:335 - Press Login Button.
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:23.449 BaseTest:367 - Error text is Username and password do not match any user in this service.
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:23.457 TestListener:34 - java.lang.AssertionError: expected [Username and password do not match any user in this service.] but found [Username and password do not match any user in this service.__test]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.qa.tests.LoginTests.invalidUserName(LoginTests.java:87)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:24.319 BaseTest:128 - Super After method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:28.522 BaseTest:122 - Super Beefore method
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:30.045 BaseTest:323 - Clearing UserName
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:39.966 BaseTest:347 - UserName is : standard_user
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:44.258 BaseTest:323 - Clearing Password
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:52.719 BaseTest:347 - Password is : secret_sauce
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:45:56.849 BaseTest:335 - Press Login Button.
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:46:07.834 BaseTest:367 - Products Title is PRODUCTS
+[logs/iOS_iPhone 13 INFO ] 2021-12-31 14:46:07.840 BaseTest:128 - Super After method
