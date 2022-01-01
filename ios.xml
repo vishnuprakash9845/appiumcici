@@ -11,6 +11,7 @@
 		<parameter name="webkitDebugProxyPort" value="11001"/>
 		<classes>
 			<class name="com.qa.tests.LoginTests"></class>
+			<!--<class name="com.qa.tests.LoginTests"></class>-->
 		</classes>
 	</test>
 </suite><!-- Suite -->
